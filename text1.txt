@@ -1,3 +1,11 @@
 Text 1
 
+<<<<<<< HEAD
 Veränderungen
+=======
+Das ist ein Text, welcher in remoteTest wurde/ Änderung in Exercise3KONF
+
+Änderung
+>>>>>>> fb0a13ee1cb25bf2019d25be8dffa65228b05910
+
+Änderungen in featureB
